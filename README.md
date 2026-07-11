@@ -51,14 +51,6 @@ Active contribution fork for hackathon development and feature engineering (MIT 
 
 ---
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivekananthan-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekananthan-dev&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🎓 Learning & Growth
 
 - 📖 Currently mastering **Machine Learning** and **LLM Development**
